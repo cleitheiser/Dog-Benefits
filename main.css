@@ -164,7 +164,7 @@ html,body {
     left: 0px;
     opacity: 0;
     z-index: 99;
-    animation: title_fade 1s forwards;
+    animation: title_fade 2s forwards;
     animation-delay: 1s; /*making it delay upon the website launch*/
 }
 @keyframes title_fade {
